@@ -111,8 +111,8 @@ O uso de técnicas simples de EDA e correlação já fornece **insights relevant
 
 ## Autor
 
-**Albino A Neto**
-*Estudante de Análise e Ciência de Dados*
+**Albino A Neto** 
+(*Estudante de Análise e Ciência de Dados*)
 
 > **Portfólio**
 - **Kaggle:** https://www.kaggle.com/albinoarmelinneto
